@@ -53,7 +53,7 @@
 2. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/debugfs-gui.git
+   git clone https://github.com/1-lobov-1/debugfs-gui.git
    cd debugfs-gui
    ```
 
